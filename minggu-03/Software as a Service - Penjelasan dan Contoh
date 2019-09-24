@@ -1,0 +1,48 @@
+Software as a service atau yang biasa dikenal dengan SaaS, adalah suatu layanan yang dibentuk didalam suatu perangkat lunak. SaaS sendiri bertujuan untuk memberikan kemudahan para pengembang aplikasi berbasis web yang nantinya akan diakses dan digunakan oleh pelanggannya dengan koneksi Internet. Software as a service (SaaS) saat ini juga merupakan salah satu komponen penting dalam pengembangan sistem-sistem diberbagai sektor bisnis yang menggunakan perangkat lunak/aplikasi untuk menjalankan kegiatannya. Menurut beberapa organisasi yang bertugas dalam memperkirakan perkembangan SaaS di dunia, didapatkan data bahwa penjualan/pemanfaatan SaaS setiap tahunnya terus meningkat. Tidak hanya Software as a service yang berada dalam bagian dunia berbasis cloud computing, tetapi juga terdapat Infrastructure as a service (IaaS), Platform as a service (PaaS), Desktop as a service (DaaS), Managed software as a service (MSaaS), Mobile backend as a service (MBaaS), dan Information technology management as a service (ITMaaS).
+
+Sejarah
+
+Software as a service (SaaS) adalah salah satu bagian dari teknologi Cloud Computing yang sebenarnya sudah mulai berkembang sejak tahun 1960-an bersama dengan virtualisasi, grid computing,ASP/ application service provision. Pertama kali dikenal lebih luas saat terbitnya sebuah artikel berjudul “Strategic Backgrounder : Software As A Service” pada tahun 2001 oleh SIIA - eBussiness Division.
+
+SaaS sendiri merupakan ekstensi dari paham model ASP, akan tetapi penggunaan SaaS pun juga sering digunakan dalam beberapa kondisi yang berbeda dengan ASP: 
+ASP cenderung fokus dalam mengatur dan menjalankan aplikasi dari software independen suatu vendor, sementara SaaS mengatur dan menjalankan aplikasi dari software mereka sendiri. Penggunaan Saas lebih praktis bagi para pengguna internet, karena mereka tidak perlu repot untuk melakukan instalasi software manual, melainkan hanya dengan mendownload dari web-link, berbeda dengan ASP yang perlu instalasi manual pada komputer pelanggan. Sementara ASP hanya berfokus pada beberapa sektor bisnis, SaaS saat ini mampu bekerja dengan banyak sektor dan pelanggan, serta pengaturan datanya terkontrol.
+
+Distribusi
+
+Dalam pendistribusian model SaaS dapat dikatakan cukup sulit bagi software tradisional yang ingin bergabung, dikarenakan struktur dan pandangan dari SaaS sendiri berbeda dengan software-software terdahulu. Bisa dikatakan bahwa perbedaan ini mencakup hampir semua sektor dalam dunia bisnis dan ekonomi.
+Akan tetapi, usaha penggabungan dari software lama ke SaaS sangatlah pentih untuk mengikuti perkembangan dunia ekonomi TI.
+
+Penjualan
+
+Software as a service (SaaS) memiliki cara yang berbeda dalam mempromosikan dan dalam memberikan layanan mereka pada pelanggan. SaaS memiliki harga jual yang lebih murah dibandingkan dengan perangkat tradisional, mereka menggunakan sistem berlangganan, umumnya selama per bulan atau per tahun. Hal ini dilakukan berdasarkan observasi banyaknya pengguna aplikasi, karena SaaS juga memperhatikan area profit. Selain dengan mengadakan program berlangganan, SaaS juga mengadakan program demo, versi SaaS yang sama, tetapi dengan fitur-fitur yang terbatas bagi para pengguna baru yang ingin mencoba terlebih dahulu. Kemudian apabila mereka ingin mendapatkan fitur yang lain, mereka cukup memilih pilihan yang ada.
+
+Konfigurasi
+
+Pada dasarnya SaaS hanya memiliki 2 bentuk, yaitu Vertical SaaS dan Horizontal SaaS.
+Vertical SaaS
+SaaS dalam vertical berguna dalam menentukan data yang diperlukan dalam suatu sektor perusahaan yang spesifik, seperti sektor perusahaan software, kesehatan, agrikultur, dan keuangan.
+Horizontal SaaS
+SaaS dalam horizontal lebih berfokus pada sektor software saja, tetapi masih dalam lingkup perusahaan.
+
+Hambatan
+
+Karena data disimpan dalam independen server, keamanan data menjadi rentan.Jarak kerja SaaS yang melalui koneksi jaringan menjadi kendala untuk bekerja lebih cepat.Perubahan-perubahan SaaS dalam perusahaan banyak mengalami pembatasan untuk mendapatkan efisiensi dana.Keamanan data yang tersimpan dalam SaaS bisa menjadi akses bagi para kriminal, karena akses data yang rentan.Karena menggunakan koneksi internet, pemindahan jumlah data yang besar akan menjadi masalah.
+
+Contoh Software dengan SaaS:
+1. Office 365
+Microsoft Office 365 merupakan salah satu produk dari Microsoft untuk memudahkan konsumen untuk dalam berbisnis, Paket Office 365 yang online-saja adalah pilihan tepat untuk kebutuhan bisnis tertentu, dan kompatible dengan versi dekstop Office 2013, Office 2010, Office 2007 (dengan fungsional yang sedikit berkurang).
+Dengan paket berlangganan Office 365 Anda mendapatkan instalasi aplikasi Office lengkap: Word, Excel, PowerPoint, OneNote, Outlook, Publisher, dan Access (Publisher dan Access hanya tersedia di PC). Ada dapat menginstal Office 365 di beberapa perangkat, termasuk PC, Mac, tablet Android, ponsel Android, iPad, dan iPhone. Selain itu, di Office 365 Anda mendapatkan layanan seperti penyimpanan online dengan OneDrive dan menit Skype untuk penggunaan di rumah. Saat Anda memiliki langganan Office 365 aktif, Anda selalu memiliki versi aplikasi Office yang paling baru.
+Office 365. “Office 365” merujuk pada paket langganan yang menyertakan akses ke aplikasi Office ditambah layanan produktivitas lain yang diaktifkan melalui Internet (layanan awan). Office 365 menyertakan paket untuk penggunaan di rumah dan bisnis. Pelajari tentang Office 365 untuk penggunaan di rumah. Paket Office 365 untuk bisnis menyertakan layanan seperti konferensi web Skype for Business dan Exchange Online yang dihost email untuk bisnis, dan penyimpanan online tambahan dengan OneDrive for Business.
+Beberapa versi dari Office 365 Yang harus anda ketahui :
+1. Office 365 ProPlus
+2. Office 365 Bisnis
+3. Office 365 Bisnis Premium
+4. Office 365 Bisnis Esensial
+5. Office 365 Enterprise E1
+6. Office 365 Enterprise E3
+7. Office 365 Enterprise E5
+Dengan paket berlangganan Office 365 Anda mendapatkan instalasi aplikasi Office lengkap: Word, Excel, PowerPoint, OneNote, Outlook, Publisher, dan Access (Publisher dan Access hanya tersedia di PC). Ada dapat menginstal Office 365 di beberapa perangkat, termasuk PC, Mac, tablet Android, ponsel Android, iPad, dan iPhone. Selain itu, di Office 365 Anda mendapatkan layanan seperti penyimpanan online dengan OneDrive dan menit Skype untuk penggunaan di rumah. Saat Anda memiliki langganan Office 365 aktif, Anda selalu memiliki versi aplikasi Office yang paling baru.
+Office 365 memungkinkan produktivitas sesuai permintaan melalui perangkat bergerak, kolaboratif, dan pengalaman kerja yang efisien. Karyawan Anda akan mendapatkan alat bantu intuitif bertaraf perusahaan yang telah mereka pahami dan dapat digunakan di mana pun mereka bekerja, baik PC, Mac, maupun perangkat bergerak. Dan dengan layanan berbasis cloud Office 365, Anda akan menghemat waktu dalam mengelola TI sementara karyawan dapat mencapai sasaran bisnis dalam waktu singkat. Berikut beberapa penjelasan yang akan semakin menguatkan kenapa bisnis anda harus segera beralih ke layanan Cloud computing.
+
+Sumber:
+https://www.dictio.id/t/apa-yang-dimaksud-dengan-software-as-a-service-saas/15062/2
